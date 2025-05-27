@@ -1,0 +1,11 @@
+,Manufacturer,Model,Sales_in_thousands,__year_resale_value,Vehicle_type,Price_in_thousands,Engine_size,Horsepower,Wheelbase,Width,Length,Curb_weight,Fuel_capacity,Fuel_efficiency,Latest_Launch,Power_perf_factor,seats,number_of_wheels,passed_road_safety
+0,Acura,Integra,16.919,16.36,Passenger,21.5,1.8,140,101.2,67.3,172.4,2.639,13.2,28,2/2/2012,85.6,5,4,True
+1,Acura,TL,39.384,19.875,Passenger,28.4,3.2,225,108.1,70.3,192.9,3.517,17.2,22,6/3/2011,92.1,5,4,True
+2,Acura,CL,14.114,18.225,Passenger,,3.2,225,106.9,70.6,192.0,3.47,17.2,22,1/4/2012,91.0,5,4,True
+3,Acura,RL,8.588,29.725,Passenger,42.0,3.5,210,114.6,71.4,196.6,3.85,18.0,22,3/10/2011,91.4,5,4,True
+4,Audi,A4,20.397,22.255,Passenger,23.99,1.8,150,102.6,68.2,178.0,2.998,16.4,26,10/8/2011,87.0,5,4,True
+5,Audi,A6,18.78,23.555,Passenger,,2.8,200,108.1,70.6,192.0,3.47,18.5,22,8/9/2011,90.2,5,4,True
+6,Audi,A8,1.38,39.0,Passenger,,4.2,300,113.0,74.1,200.3,3.901,21.1,19,9/15/2011,101.3,5,4,True
+7,BMW,323i,19.747,,Passenger,,2.5,170,106.3,67.7,177.4,3.197,16.0,25,11/2/2011,86.7,5,4,True
+8,BMW,328i,9.231,28.675,Passenger,33.4,2.8,193,107.3,68.5,177.4,3.219,16.4,24,12/20/2011,90.4,5,4,True
+9,BMW,528i,17.527,36.125,Passenger,,2.8,190,111.4,70.0,188.0,3.472,17.7,22,7/22/2011,92.0,5,4,True
